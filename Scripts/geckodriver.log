@@ -1,0 +1,43 @@
+1638048239962	geckodriver	INFO	Listening on 127.0.0.1:57565
+1638048243016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileYWtyXN"
+1638048243937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileYWtyXN\\search.json.mozlz4", (void 0)))
+1638048248092	Marionette	INFO	Listening on port 57575
+1638048248361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638048369512	Marionette	INFO	Stopped listening on port 57575
+1638048461816	geckodriver	INFO	Listening on 127.0.0.1:57808
+1638048464859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileBpvG39"
+1638048465468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileBpvG39\\search.json.mozlz4", (void 0)))
+1638048468273	Marionette	INFO	Listening on port 57818
+1638048468603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638048509692	Marionette	INFO	Stopped listening on port 57818
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638048626627	geckodriver	INFO	Listening on 127.0.0.1:58011
+1638048629682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileHGGw5N"
+1638048630383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofileHGGw5N\\search.json.mozlz4", (void 0)))
+1638048633425	Marionette	INFO	Listening on port 58020
+1638048633468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638048668363	Marionette	INFO	Stopped listening on port 58020
+1638049292279	geckodriver	INFO	Listening on 127.0.0.1:58989
+1638049295314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofilecK2QL6"
+1638049296006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofilecK2QL6\\search.json.mozlz4", (void 0)))
+1638049299105	Marionette	INFO	Listening on port 58999
+1638049299592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638053991698	geckodriver	INFO	Listening on 127.0.0.1:57574
+1638053994745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofilexfBDE5"
+1638053995344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quoej\\AppData\\Local\\Temp\\rust_mozprofilexfBDE5\\search.json.mozlz4", (void 0)))
+1638053997699	Marionette	INFO	Listening on port 57583
+1638053997933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638054018967	Marionette	INFO	Stopped listening on port 57583
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,493 @@
+"","Country","Code","Year","Annual Births per Country"
+"70","Afghanistan","AFG",2019,1211509
+"71","Afghanistan","AFG",2020,1215628
+"141","Africa","",2019,43206498
+"142","Africa","",2020,43713339
+"212","Albania","ALB",2019,33421
+"213","Albania","ALB",2020,32888
+"283","Algeria","DZA",2019,1012188
+"284","Algeria","DZA",2020,995368
+"354","Angola","AGO",2019,1283488
+"355","Angola","AGO",2020,1311356
+"425","Antigua and Barbuda","ATG",2019,1467
+"426","Antigua and Barbuda","ATG",2020,1457
+"496","Argentina","ARG",2019,753596
+"497","Argentina","ARG",2020,752059
+"567","Armenia","ARM",2019,40300
+"568","Armenia","ARM",2020,39311
+"638","Aruba","ABW",2019,1249
+"639","Aruba","ABW",2020,1264
+"709","Asia","",2019,73789469
+"710","Asia","",2020,73279366
+"780","Asia, Central","",2019,1633548
+"781","Asia, Central","",2020,1608434
+"851","Australia","AUS",2019,318644
+"852","Australia","AUS",2020,318478
+"922","Australia & New Zealand","",2019,378290
+"923","Australia & New Zealand","",2020,378149
+"993","Austria","AUT",2019,89072
+"994","Austria","AUT",2020,89693
+"1064","Azerbaijan","AZE",2019,161937
+"1065","Azerbaijan","AZE",2020,156761
+"1135","Bahamas","BHS",2019,5408
+"1136","Bahamas","BHS",2020,5422
+"1206","Bahrain","BHR",2019,22009
+"1207","Bahrain","BHR",2020,22096
+"1277","Bangladesh","BGD",2019,2913430
+"1278","Bangladesh","BGD",2020,2889959
+"1348","Barbados","BRB",2019,3048
+"1349","Barbados","BRB",2020,3045
+"1419","Belarus","BLR",2019,109779
+"1420","Belarus","BLR",2020,107929
+"1490","Belgium","BEL",2019,124262
+"1491","Belgium","BEL",2020,124027
+"1561","Belize","BLZ",2019,8014
+"1562","Belize","BLZ",2020,8059
+"1632","Benin","BEN",2019,423498
+"1633","Benin","BEN",2020,430443
+"1703","Bhutan","BTN",2019,12977
+"1704","Bhutan","BTN",2020,12886
+"1774","Bolivia","BOL",2019,247145
+"1775","Bolivia","BOL",2020,247457
+"1845","Bosnia and Herzegovina","BIH",2019,26311
+"1846","Bosnia and Herzegovina","BIH",2020,25586
+"1916","Botswana","BWA",2019,55757
+"1917","Botswana","BWA",2020,55466
+"1987","Brazil","BRA",2019,2889924
+"1988","Brazil","BRA",2020,2859135
+"2058","Brunei","BRN",2019,6260
+"2059","Brunei","BRN",2020,6156
+"2129","Bulgaria","BGR",2019,61892
+"2130","Bulgaria","BGR",2020,61003
+"2200","Burkina Faso","BFA",2019,762497
+"2201","Burkina Faso","BFA",2020,774622
+"2271","Burundi","BDI",2019,443133
+"2272","Burundi","BDI",2020,449616
+"2342","Cambodia","KHM",2019,362761
+"2343","Cambodia","KHM",2020,360189
+"2413","Cameroon","CMR",2019,903930
+"2414","Cameroon","CMR",2020,914863
+"2484","Canada","CAN",2019,386464
+"2485","Canada","CAN",2020,386828
+"2555","Cape Verde","CPV",2019,10478
+"2556","Cape Verde","CPV",2020,10357
+"2626","Caribbean","",2019,706903
+"2627","Caribbean","",2020,700165
+"2697","Central African Republic","CAF",2019,167385
+"2698","Central African Republic","CAF",2020,169149
+"2768","Central America","",2019,3245542
+"2769","Central America","",2020,3231035
+"2839","Central and Southern Asia","",2019,38342265
+"2840","Central and Southern Asia","",2020,38238679
+"2910","Chad","TCD",2019,665764
+"2911","Chad","TCD",2020,677534
+"2981","Channel Islands","OWID_CIS",2019,1687
+"2982","Channel Islands","OWID_CIS",2020,1697
+"3052","Chile","CHL",2019,229031
+"3053","Chile","CHL",2020,227040
+"3123","China","CHN",2019,16539228
+"3124","China","CHN",2020,16233446
+"3194","Colombia","COL",2019,732473
+"3195","Colombia","COL",2020,727212
+"3265","Comoros","COM",2019,26739
+"3266","Comoros","COM",2020,26932
+"3336","Congo","COG",2019,174549
+"3337","Congo","COG",2020,176735
+"3407","Costa Rica","CRI",2019,69059
+"3408","Costa Rica","CRI",2020,68242
+"3478","Cote d'Ivoire","CIV",2019,913408
+"3479","Cote d'Ivoire","CIV",2020,928937
+"3549","Croatia","HRV",2019,36074
+"3550","Croatia","HRV",2020,35341
+"3620","Cuba","CUB",2019,112811
+"3621","Cuba","CUB",2020,110698
+"3691","Curacao","CUW",2019,1747
+"3692","Curacao","CUW",2020,1738
+"3762","Cyprus","CYP",2019,12265
+"3763","Cyprus","CYP",2020,12070
+"3833","Czechia","CZE",2019,109531
+"3834","Czechia","CZE",2020,108313
+"3904","Democratic Republic of Congo","COD",2019,3532492
+"3905","Democratic Republic of Congo","COD",2020,3597686
+"3975","Denmark","DNK",2019,62394
+"3976","Denmark","DNK",2020,63256
+"4046","Djibouti","DJI",2019,20436
+"4047","Djibouti","DJI",2020,20290
+"4117","Dominican Republic","DOM",2019,205998
+"4118","Dominican Republic","DOM",2020,204486
+"4188","Eastern Africa","",2019,14600622
+"4189","Eastern Africa","",2020,14801746
+"4259","Eastern Asia","",2019,18552339
+"4260","Eastern Asia","",2020,18219912
+"4330","Eastern Europe","",2019,3236928
+"4331","Eastern Europe","",2020,3170506
+"4401","Eastern and South-Eastern Asia","",2019,29922300
+"4402","Eastern and South-Eastern Asia","",2020,29527152
+"4472","Ecuador","ECU",2019,337131
+"4473","Ecuador","ECU",2020,337355
+"4543","Egypt","EGY",2019,2576835
+"4544","Egypt","EGY",2020,2562681
+"4614","El Salvador","SLV",2019,116522
+"4615","El Salvador","SLV",2020,115623
+"4685","Equatorial Guinea","GNQ",2019,44478
+"4686","Equatorial Guinea","GNQ",2020,45415
+"4756","Eritrea","ERI",2019,104526
+"4757","Eritrea","ERI",2020,104122
+"4827","Estonia","EST",2019,13521
+"4828","Estonia","EST",2020,13402
+"4898","Eswatini","SWZ",2019,29726
+"4899","Eswatini","SWZ",2020,29467
+"4969","Ethiopia","ETH",2019,3579233
+"4970","Ethiopia","ETH",2020,3618849
+"5040","Europe","",2019,7645336
+"5041","Europe","",2020,7555021
+"5111","Europe and Northern America","",2019,11965569
+"5112","Europe and Northern America","",2020,11900701
+"5182","Europe, Western","",2019,1990738
+"5183","Europe, Western","",2020,1991740
+"5253","Fiji","FJI",2019,18665
+"5254","Fiji","FJI",2020,18472
+"5324","Finland","FIN",2019,50035
+"5325","Finland","FIN",2020,49106
+"5395","France","FRA",2019,723195
+"5396","France","FRA",2020,719164
+"5466","French Guiana","GUF",2019,7275
+"5467","French Guiana","GUF",2020,7359
+"5537","French Polynesia","PYF",2019,4031
+"5538","French Polynesia","PYF",2020,3983
+"5608","Gabon","GAB",2019,67154
+"5609","Gabon","GAB",2020,67272
+"5679","Gambia","GMB",2019,89530
+"5680","Gambia","GMB",2020,90977
+"5750","Georgia","GEO",2019,52711
+"5751","Georgia","GEO",2020,51456
+"5821","Germany","DEU",2019,786166
+"5822","Germany","DEU",2020,789910
+"5892","Ghana","GHA",2019,882491
+"5893","Ghana","GHA",2020,889291
+"5963","Greece","GRC",2019,78607
+"5964","Greece","GRC",2020,76268
+"6034","Grenada","GRD",2019,1813
+"6035","Grenada","GRD",2020,1788
+"6105","Guadeloupe","GLP",2019,4594
+"6106","Guadeloupe","GLP",2020,4561
+"6176","Guam","GUM",2019,2753
+"6177","Guam","GUM",2020,2756
+"6247","Guatemala","GTM",2019,425925
+"6248","Guatemala","GTM",2020,427598
+"6318","Guinea","GIN",2019,460091
+"6319","Guinea","GIN",2020,467541
+"6389","Guinea-Bissau","GNB",2019,66429
+"6390","Guinea-Bissau","GNB",2020,66974
+"6460","Guyana","GUY",2019,15436
+"6461","Guyana","GUY",2020,15316
+"6531","Haiti","HTI",2019,269929
+"6532","Haiti","HTI",2020,268969
+"6602","High income countries","",2019,13446857
+"6603","High income countries","",2020,13403343
+"6673","Honduras","HND",2019,208145
+"6674","Honduras","HND",2020,208734
+"6744","Hong Kong","HKG",2019,82518
+"6745","Hong Kong","HKG",2020,82839
+"6815","Hungary","HUN",2019,91471
+"6816","Hungary","HUN",2020,91049
+"6886","Iceland","ISL",2019,4033
+"6887","Iceland","ISL",2020,4006
+"6957","India","IND",2019,24116023
+"6958","India","IND",2020,24067825
+"7028","Indonesia","IDN",2019,4800697
+"7029","Indonesia","IDN",2020,4771211
+"7099","Iran","IRN",2019,1524492
+"7100","Iran","IRN",2020,1503007
+"7170","Iraq","IRQ",2019,1124363
+"7171","Iraq","IRQ",2020,1136256
+"7241","Ireland","IRL",2019,60606
+"7242","Ireland","IRL",2020,59325
+"7312","Israel","ISR",2019,170176
+"7313","Israel","ISR",2020,170262
+"7383","Italy","ITA",2019,446715
+"7384","Italy","ITA",2020,437905
+"7454","Jamaica","JAM",2019,46879
+"7455","Jamaica","JAM",2020,46455
+"7525","Japan","JPN",2019,926285
+"7526","Japan","JPN",2020,908919
+"7596","Jordan","JOR",2019,214710
+"7597","Jordan","JOR",2020,213830
+"7667","Kazakhstan","KAZ",2019,376484
+"7668","Kazakhstan","KAZ",2020,368121
+"7738","Kenya","KEN",2019,1490648
+"7739","Kenya","KEN",2020,1505629
+"7809","Kiribati","KIR",2019,3237
+"7810","Kiribati","KIR",2020,3233
+"7880","Kuwait","KWT",2019,55466
+"7881","Kuwait","KWT",2020,53768
+"7951","Kyrgyzstan","KGZ",2019,152769
+"7952","Kyrgyzstan","KGZ",2020,150543
+"8022","Land-locked Developing Countries (LLDC)","",2019,16090570
+"8023","Land-locked Developing Countries (LLDC)","",2020,16221258
+"8093","Laos","LAO",2019,165690
+"8094","Laos","LAO",2020,164753
+"8164","Latin America and the Caribbean","",2019,10455807
+"8165","Latin America and the Caribbean","",2020,10389202
+"8235","Latvia","LVA",2019,20145
+"8236","Latvia","LVA",2020,19658
+"8306","Least Developed Countries","",2019,32165575
+"8307","Least Developed Countries","",2020,32546667
+"8377","Lebanon","LBN",2019,116860
+"8378","Lebanon","LBN",2020,115701
+"8448","Lesotho","LSO",2019,56114
+"8449","Lesotho","LSO",2020,55669
+"8519","Less Developed Regions","",2019,126837908
+"8520","Less Developed Regions","",2020,126787534
+"8590","Less Developed Regions, excluding China","",2019,110009179
+"8591","Less Developed Regions, excluding China","",2020,110264283
+"8661","Less Developed Regions, excluding Least Developed Countries","",2019,94672333
+"8662","Less Developed Regions, excluding Least Developed Countries","",2020,94240867
+"8732","Liberia","LBR",2019,161726
+"8733","Liberia","LBR",2020,163984
+"8803","Libya","LBY",2019,123907
+"8804","Libya","LBY",2020,122062
+"8874","Lithuania","LTU",2019,28386
+"8875","Lithuania","LTU",2020,27758
+"8945","Low-income countries","",2019,25667034
+"8946","Low-income countries","",2020,26009123
+"9016","Lower-middle-income countries","",2019,64927658
+"9017","Lower-middle-income countries","",2020,64979339
+"9087","Luxembourg","LUX",2019,6449
+"9088","Luxembourg","LUX",2020,6496
+"9158","Macao","MAC",2019,6975
+"9159","Macao","MAC",2020,6961
+"9229","Madagascar","MDG",2019,875789
+"9230","Madagascar","MDG",2020,891753
+"9300","Malawi","MWI",2019,630471
+"9301","Malawi","MWI",2020,641608
+"9371","Malaysia","MYS",2019,530698
+"9372","Malaysia","MYS",2020,531804
+"9442","Maldives","MDV",2019,6987
+"9443","Maldives","MDV",2020,6835
+"9513","Mali","MLI",2019,808518
+"9514","Mali","MLI",2020,823027
+"9584","Malta","MLT",2019,4331
+"9585","Malta","MLT",2020,4341
+"9655","Martinique","MTQ",2019,3633
+"9656","Martinique","MTQ",2020,3589
+"9726","Mauritania","MRT",2019,150679
+"9727","Mauritania","MRT",2020,152868
+"9797","Mauritius","MUS",2019,12797
+"9798","Mauritius","MUS",2020,12722
+"9868","Mayotte","MYT",2019,7340
+"9869","Mayotte","MYT",2020,7410
+"9939","Melanesia","OWID_MNS",2019,288108
+"9940","Melanesia","OWID_MNS",2020,290311
+"10010","Mexico","MEX",2019,2206201
+"10011","Mexico","MEX",2020,2192160
+"10081","Micronesia (country)","FSM",2019,2584
+"10082","Micronesia (country)","FSM",2020,2601
+"10152","Middle Africa","",2019,6845950
+"10153","Middle Africa","",2020,6966774
+"10223","Middle-income countries","",2019,100945550
+"10224","Middle-income countries","",2020,100514190
+"10294","Moldova","MDA",2019,40119
+"10295","Moldova","MDA",2020,39360
+"10365","Mongolia","MNG",2019,75108
+"10366","Mongolia","MNG",2020,73755
+"10436","Montenegro","MNE",2019,7327
+"10437","Montenegro","MNE",2020,7275
+"10507","More Developed Regions","",2019,13270144
+"10508","More Developed Regions","",2020,13187769
+"10578","Morocco","MAR",2019,674504
+"10579","Morocco","MAR",2020,668010
+"10649","Mozambique","MOZ",2019,1131066
+"10650","Mozambique","MOZ",2020,1152670
+"10720","Myanmar","MMR",2019,941600
+"10721","Myanmar","MMR",2020,939304
+"10791","Namibia","NAM",2019,70238
+"10792","Namibia","NAM",2020,70276
+"10862","Nepal","NPL",2019,562730
+"10863","Nepal","NPL",2020,562119
+"10933","Netherlands","NLD",2019,172525
+"10934","Netherlands","NLD",2020,173080
+"11004","New Caledonia","NCL",2019,3953
+"11005","New Caledonia","NCL",2020,3938
+"11075","New Zealand","NZL",2019,59646
+"11076","New Zealand","NZL",2020,59671
+"11146","Nicaragua","NIC",2019,132276
+"11147","Nicaragua","NIC",2020,131048
+"11217","Niger","NER",2019,1067314
+"11218","Niger","NER",2020,1098096
+"11288","Nigeria","NGA",2019,7534528
+"11289","Nigeria","NGA",2020,7639486
+"11359","No income group available","",2019,48611
+"11360","No income group available","",2020,48647
+"11430","North Korea","PRK",2019,355317
+"11431","North Korea","PRK",2020,355194
+"11501","North Macedonia","MKD",2019,22179
+"11502","North Macedonia","MKD",2020,21827
+"11572","Northern Africa","",2019,5963419
+"11573","Northern Africa","",2020,5938798
+"11643","Northern Africa and Western Asia","",2019,11488323
+"11644","Northern Africa and Western Asia","",2020,11452333
+"11714","Northern America","",2019,4320233
+"11715","Northern America","",2020,4345680
+"11785","Northern Europe","",2019,1193561
+"11786","Northern Europe","",2020,1190717
+"11856","Norway","NOR",2019,59529
+"11857","Norway","NOR",2020,60032
+"11927","Oceania","",2019,690709
+"11928","Oceania","",2020,692695
+"11998","Oceania (excluding Australia and New Zealand)","",2019,312419
+"11999","Oceania (excluding Australia and New Zealand)","",2020,314546
+"12069","Oman","OMN",2019,90937
+"12070","Oman","OMN",2020,89906
+"12140","Pakistan","PAK",2019,6029320
+"12141","Pakistan","PAK",2020,6045567
+"12211","Palestine","PSE",2019,143324
+"12212","Palestine","PSE",2020,144176
+"12282","Panama","PAN",2019,79400
+"12283","Panama","PAN",2020,79571
+"12353","Papua New Guinea","PNG",2019,235345
+"12354","Papua New Guinea","PNG",2020,237474
+"12424","Paraguay","PRY",2019,143304
+"12425","Paraguay","PRY",2020,143305
+"12495","Peru","PER",2019,574662
+"12496","Peru","PER",2020,574987
+"12566","Philippines","PHL",2019,2182014
+"12567","Philippines","PHL",2020,2182501
+"12637","Poland","POL",2019,367009
+"12638","Poland","POL",2020,361779
+"12708","Portugal","PRT",2019,79161
+"12709","Portugal","PRT",2020,78491
+"12779","Puerto Rico","PRI",2019,20850
+"12780","Puerto Rico","PRI",2020,19718
+"12850","Qatar","QAT",2019,26604
+"12851","Qatar","QAT",2020,26670
+"12921","Reunion","REU",2019,12961
+"12922","Reunion","REU",2020,12873
+"12992","Romania","ROU",2019,186678
+"12993","Romania","ROU",2020,183956
+"13063","Russia","RUS",2019,1806235
+"13064","Russia","RUS",2020,1765743
+"13134","Rwanda","RWA",2019,394616
+"13135","Rwanda","RWA",2020,397657
+"13205","Saint Lucia","LCA",2019,2164
+"13206","Saint Lucia","LCA",2020,2139
+"13276","Saint Vincent and the Grenadines","VCT",2019,1557
+"13277","Saint Vincent and the Grenadines","VCT",2020,1545
+"13347","Samoa","WSM",2019,4774
+"13348","Samoa","WSM",2020,4761
+"13418","Sao Tome and Principe","STP",2019,6710
+"13419","Sao Tome and Principe","STP",2020,6764
+"13489","Saudi Arabia","SAU",2019,591914
+"13490","Saudi Arabia","SAU",2020,585170
+"13560","Senegal","SEN",2019,553786
+"13561","Senegal","SEN",2020,560077
+"13631","Serbia","SRB",2019,82276
+"13632","Serbia","SRB",2020,81208
+"13702","Seychelles","SYC",2019,1588
+"13703","Seychelles","SYC",2020,1565
+"13773","Sierra Leone","SLE",2019,257146
+"13774","Sierra Leone","SLE",2020,258281
+"13844","Singapore","SGP",2019,50096
+"13845","Singapore","SGP",2020,49976
+"13915","Slovakia","SVK",2019,56262
+"13916","Slovakia","SVK",2020,55643
+"13986","Slovenia","SVN",2019,19711
+"13987","Slovenia","SVN",2020,19361
+"14057","Small Island Developing States (SIDS)","",2019,1295160
+"14058","Small Island Developing States (SIDS)","",2020,1291180
+"14128","Solomon Islands","SLB",2019,21395
+"14129","Solomon Islands","SLB",2020,21589
+"14199","Somalia","SOM",2019,644285
+"14200","Somalia","SOM",2020,660094
+"14270","South Africa","ZAF",2019,1177806
+"14271","South Africa","ZAF",2020,1172060
+"14341","South America","",2019,6503362
+"14342","South America","",2020,6458002
+"14412","South Eastern Asia","",2019,11369961
+"14413","South Eastern Asia","",2020,11307240
+"14483","South Korea","KOR",2019,366900
+"14484","South Korea","KOR",2020,358793
+"14554","South Sudan","SSD",2019,388144
+"14555","South Sudan","SSD",2020,389714
+"14625","Southern Africa","",2019,1389641
+"14626","Southern Africa","",2020,1382938
+"14696","Southern Asia","",2019,36708717
+"14697","Southern Asia","",2020,36630245
+"14767","Southern Europe","",2019,1224109
+"14768","Southern Europe","",2020,1202058
+"14838","Spain","ESP",2019,386793
+"14839","Spain","ESP",2020,380395
+"14909","Sri Lanka","LKA",2019,331249
+"14910","Sri Lanka","LKA",2020,326419
+"14980","Sub-Saharan Africa","",2019,37243079
+"14981","Sub-Saharan Africa","",2020,37774541
+"15051","Sudan","SDN",2019,1364897
+"15052","Sudan","SDN",2020,1383196
+"15122","Suriname","SUR",2019,10633
+"15123","Suriname","SUR",2020,10587
+"15193","Sweden","SWE",2019,119202
+"15194","Sweden","SWE",2020,119651
+"15264","Switzerland","CHE",2019,88212
+"15265","Switzerland","CHE",2020,88511
+"15335","Syria","SYR",2019,421622
+"15336","Syria","SYR",2020,420602
+"15406","Taiwan","TWN",2019,200008
+"15407","Taiwan","TWN",2020,200005
+"15477","Tajikistan","TJK",2019,279320
+"15478","Tajikistan","TJK",2020,277919
+"15548","Tanzania","TZA",2019,2111498
+"15549","Tanzania","TZA",2020,2153054
+"15619","Thailand","THA",2019,707398
+"15620","Thailand","THA",2020,696526
+"15690","Timor","TLS",2019,37899
+"15691","Timor","TLS",2020,38264
+"15761","Togo","TGO",2019,264686
+"15762","Togo","TGO",2020,268061
+"15832","Tonga","TON",2019,2508
+"15833","Tonga","TON",2020,2502
+"15903","Trinidad and Tobago","TTO",2019,17522
+"15904","Trinidad and Tobago","TTO",2020,17103
+"15974","Tunisia","TUN",2019,199553
+"15975","Tunisia","TUN",2020,195883
+"16045","Turkey","TUR",2019,1308105
+"16046","Turkey","TUR",2020,1300918
+"16116","Turkmenistan","TKM",2019,136816
+"16117","Turkmenistan","TKM",2020,134624
+"16187","Uganda","UGA",2019,1648528
+"16188","Uganda","UGA",2020,1669841
+"16258","Ukraine","UKR",2019,407952
+"16259","Ukraine","UKR",2020,395731
+"16329","United Arab Emirates","ARE",2019,100073
+"16330","United Arab Emirates","ARE",2020,100021
+"16400","United Kingdom","GBR",2019,772640
+"16401","United Kingdom","GBR",2020,771427
+"16471","United States","USA",2019,3932450
+"16472","United States","USA",2020,3957544
+"16542","United States Virgin Islands","VIR",2019,1199
+"16543","United States Virgin Islands","VIR",2020,1181
+"16613","Upper-middle-income countries","",2019,36017892
+"16614","Upper-middle-income countries","",2020,35534851
+"16684","Uruguay","URY",2019,47548
+"16685","Uruguay","URY",2020,47274
+"16755","Uzbekistan","UZB",2019,688159
+"16756","Uzbekistan","UZB",2020,677227
+"16826","Vanuatu","VUT",2019,8750
+"16827","Vanuatu","VUT",2020,8838
+"16897","Venezuela","VEN",2019,515171
+"16898","Venezuela","VEN",2020,508883
+"16968","Vietnam","VNM",2019,1584848
+"16969","Vietnam","VNM",2020,1566556
+"17039","Western Africa","",2019,14406866
+"17040","Western Africa","",2020,14623083
+"17110","Western Asia","",2019,5524904
+"17111","Western Asia","",2020,5513535
+"17181","Western Sahara","ESH",2019,11535
+"17182","Western Sahara","ESH",2020,11598
+"17252","World","OWID_WRL",2019,140108052
+"17253","World","OWID_WRL",2020,139975303
+"17323","Yemen","YEM",2019,871528
+"17324","Yemen","YEM",2020,874561
+"17394","Zambia","ZMB",2019,640635
+"17395","Zambia","ZMB",2020,653578
+"17465","Zimbabwe","ZWE",2019,436189
+"17466","Zimbabwe","ZWE",2020,431769
