@@ -1,6 +1,0 @@
-https://ourworldindata.org/fertility-rate
-https://ourworldindata.org/economic-growth
-https://ourworldindata.org/coronavirus
-
-https://www.numbeo.com/health-care/rankings_by_country.jsp?title=2020
-https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2020&displayColumn=-1
